@@ -2345,6 +2345,13 @@ landscape:
             logo: canonical-charmed-distribution-of-kubernetes.svg
             crunchbase: 'https://www.crunchbase.com/organization/canonical-ltd'
           - item:
+            name: MicroK8s
+            description: 'An easy to install, single node local Kubernetes.'
+            homepage_url: 'https://microk8s.io'
+            repo_url: 'https://github.com/ubuntu/microk8s'
+            logo: microk8s.svg
+            crunchbase: 'https://www.crunchbase.com/organization/canonical-ltd'
+          - item:
             name: Cisco Container Platform
             description: >-
               Cisco Container Platform (CCP) automates the repetitive things and simplifies the complex ones so everyone can just go back to enjoying the magic
@@ -2984,6 +2991,13 @@ landscape:
             logo: gardener.svg
             crunchbase: 'https://www.crunchbase.com/organization/sap'
           - item:
+            name: MicroK8s
+            description: 'An easy to install, single node local Kubernetes.'
+            homepage_url: 'https://microk8s.io'
+            repo_url: 'https://github.com/ubuntu/microk8s'
+            logo: microk8s.svg
+            crunchbase: 'https://www.crunchbase.com/organization/canonical-ltd'
+          - item:
             name: Google Kube-Up
             homepage_url: 'https://github.com/kubernetes/kubernetes/tree/master/cluster'
             repo_url: 'https://github.com/kubernetes/kube-deploy'
@@ -3042,13 +3056,6 @@ landscape:
             repo_url: 'https://github.com/linode/linode-cli'
             logo: linode.svg
             crunchbase: 'https://www.crunchbase.com/organization/linode'
-          - item:
-            name: MicroK8s
-            description: 'An easy to install, single node local Kubernetes.'
-            homepage_url: 'https://microk8s.io'
-            repo_url: 'https://github.com/ubuntu/microk8s'
-            logo: microk8s.svg
-            crunchbase: 'https://www.crunchbase.com/organization/canonical-ltd'
           - item:
             name: minikube
             description: 'minikube runs a local Kubernetes cluster on macOS, Linux, and Windows.'
